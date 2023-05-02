@@ -15,7 +15,7 @@ ROBLOXDebugCanary is an open-source project that has been developed and maintain
 Additionally, some of the software and files included in this project is from other people, all credits go to the files marked as "CREDITED". No copyright infrigement shall be executed.
 
 # Software
-ROBLOXDebugCanary is a cross-platform application that can run on Windows, macOS, and Linux. It is built using the Python programming language and uses several open-source libraries, including PyInstaller, PySide2, and QDarkStyle.
+ROBLOXDebugCanary is a cross-platform application that can run on Windows, macOS, and Linux.
 
 The latest version of ROBLOXDebugCanary can be downloaded from the project's GitHub repository. The application is distributed as a standalone executable file, which means that you do not need to install any additional software to use it.
 
